@@ -472,7 +472,7 @@ msgstr "χειρόφρενο"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "εναλλαγή σύστημα ελέγχου πρόσφυσης"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
