@@ -484,7 +484,7 @@ msgstr "attiva/disattiva freno a mano"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "attiva/disattiva il controllo di trazione"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
