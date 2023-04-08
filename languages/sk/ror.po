@@ -478,7 +478,7 @@ msgstr "zatiahnuť / uvoľniť parkovaciu brzdu"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "prepnúť trakčnú kontrolu"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
