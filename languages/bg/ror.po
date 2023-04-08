@@ -439,7 +439,7 @@ msgstr "Ръчна спирачка"
 #, fuzzy
 #| msgid "toggle truck beacons"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "Вкл./Изкл. предупредителни светлини"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
