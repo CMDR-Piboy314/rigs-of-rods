@@ -483,7 +483,7 @@ msgstr "wł./wył. hamulec postojowy"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "wł./wył. system kontroli trakcji"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
