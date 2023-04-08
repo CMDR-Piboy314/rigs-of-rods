@@ -479,7 +479,7 @@ msgstr "lülita seisupidur sisse või välja"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "lülita veojõukontroll sisse või välja"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
