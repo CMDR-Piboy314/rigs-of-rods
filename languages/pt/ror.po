@@ -478,7 +478,7 @@ msgstr "Alternar o freio de estacionamento"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:31
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "Alternar o controle de tração"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
