@@ -446,7 +446,7 @@ msgstr "ABS uključen/isključen"
 #, fuzzy
 #| msgid "toggle between transmission modes"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "Odabir vrste prijenosa"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
