@@ -479,7 +479,7 @@ msgstr "Des/Activar freno de mano"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:31
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "Des/Activar control de tracción"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
