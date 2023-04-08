@@ -420,7 +420,7 @@ msgstr ""
 #, fuzzy
 #| msgid "toggle custom light 3"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "golau togl arferiad 3"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
