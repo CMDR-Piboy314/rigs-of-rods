@@ -476,7 +476,7 @@ msgstr "Aktiver/deaktiver parkeringsbremsen"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "aktiver antispinn"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
