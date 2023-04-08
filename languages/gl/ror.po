@@ -465,7 +465,7 @@ msgstr ""
 #, fuzzy
 #| msgid "toggle truck front lights"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "Encender/Apagar luces dianteiras do vehiculo"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
