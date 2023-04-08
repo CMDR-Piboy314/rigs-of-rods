@@ -105,7 +105,7 @@ public:
 	void parkingbrakeToggle();
 	
 	/**
-	 * Toggles the tracktion control.
+	 * Toggles the traction control.
 	 */
 	void tractioncontrolToggle();
 	
