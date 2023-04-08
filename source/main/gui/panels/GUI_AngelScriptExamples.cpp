@@ -28,7 +28,7 @@ void AngelScriptExamples::Draw()
     this->DrawRowText("int getTruckType()", "game.log(' ' + game.getCurrentTruck().getTruckType())", _LC("AngelScript", "Gets the type of the truck"));
     this->DrawRowCheckbox("void reset()", "game.getCurrentTruck().reset({})", _LC("AngelScript", "Resets the truck"), reset, "Keep position");
     this->DrawRowText("void parkingbrakeToggle()", "game.getCurrentTruck().parkingbrakeToggle()", _LC("AngelScript", "Toggles the parking brake"));
-    this->DrawRowText("void tractioncontrolToggle()", "game.getCurrentTruck().tractioncontrolToggle()", _LC("AngelScript", "Toggles the tracktion control"));
+    this->DrawRowText("void tractioncontrolToggle()", "game.getCurrentTruck().tractioncontrolToggle()", _LC("AngelScript", "Toggles the traction control"));
     this->DrawRowText("void antilockbrakeToggle()", "game.getCurrentTruck().antilockbrakeToggle()", _LC("AngelScript", "Toggles the anti-lock brakes"));
     this->DrawRowText("void beaconsToggle()", "game.getCurrentTruck().beaconsToggle()", _LC("AngelScript", "Toggles the beacons"));
     this->DrawRowText("void toggleCustomParticles()", "game.getCurrentTruck().toggleCustomParticles()", _LC("AngelScript", "Toggles the custom particles"));
