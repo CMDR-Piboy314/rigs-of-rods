@@ -450,7 +450,7 @@ msgstr "切换驻车制动器"
 #| msgctxt "InputEvent"
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "切换牵引力控制"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
