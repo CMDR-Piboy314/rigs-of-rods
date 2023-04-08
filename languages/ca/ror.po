@@ -480,7 +480,7 @@ msgstr "activa fre d'estacionament"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "activa control de tracció"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
