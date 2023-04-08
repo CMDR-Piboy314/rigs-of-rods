@@ -465,7 +465,7 @@ msgstr "Park freni"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "yol tutus contolu etkinleştir"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
