@@ -470,7 +470,7 @@ msgstr "kézifék be"
 #, fuzzy
 #| msgid "toggle traction control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "Kipörgésgátló ki-be kapcsolása"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
