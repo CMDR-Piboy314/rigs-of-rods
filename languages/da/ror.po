@@ -439,7 +439,7 @@ msgstr "Træk håndbremsen"
 #, fuzzy
 #| msgid "toggle truck beacons"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "tænd/sluk lastbilens roterblink"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
