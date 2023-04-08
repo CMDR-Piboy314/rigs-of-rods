@@ -463,7 +463,7 @@ msgstr "アンチロックブレーキボタン"
 #, fuzzy
 #| msgid "toggle cruise control"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "クルーズコントロールをトグル"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
