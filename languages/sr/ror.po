@@ -452,7 +452,7 @@ msgstr "Ukljuci cesticni top"
 #, fuzzy
 #| msgid "toggle truck beacons"
 msgctxt "AngelScript"
-msgid "Toggles the tracktion control"
+msgid "Toggles the traction control"
 msgstr "ukljucite rotaciona svetla na kamionu"
 
 #: gui/panels/GUI_AngelScriptExamples.cpp:32
